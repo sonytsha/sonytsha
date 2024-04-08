@@ -1,5 +1,11 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/3Eqa.gif](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"  />
+  <img height="150" src="https://www.instagram.com/p/CwCA_q7v5ld/?hl=en"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://i.gifer.com/3Eqa.gif"  />
 </div>
 
 ###
@@ -18,12 +24,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sonytsha.sonytsha&](https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sonytsha.sonytsha&"  />
 </div>
 
 ###
 
-<h1 align="center">Greetings, Explorers! Enter Shaw's Tech Realm.</h1>
+<h1 align="center">Greetings, Explorers! Welcome to Shaw's Tech Realm.</h1>
 
 ###
 
@@ -68,8 +74,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sonytsha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
 
 
 ###
