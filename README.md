@@ -24,6 +24,17 @@
 ###
 
 <div align="center">
+  <a href="https://www.naukri.com/code360/profile/sonytsha" target="_blank">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-Profile-brightgreen?style=for-the-badge&logo=codingninjas&logoColor=white" height="25" alt="Coding Ninjas logo" />
+  </a>
+  <a href="https://leetcode.com/sonytsha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-important?style=for-the-badge&logo=leetcode&logoColor=white" height="25" alt="LeetCode logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sonytsha.sonytsha&"  />
 </div>
 
@@ -77,3 +88,4 @@
 
 
 ###
+
