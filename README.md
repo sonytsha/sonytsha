@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Sony Shaw!<br><br>🚀 Amazon L3 support ace by day, Java full-stack wizard by night, passionate about tackling tech challenges head-on.<br><br>🔧 Fixing bugs and crafting code that sings, with achievements like boosting system efficiency by 30% (check my LinkedIn).<br><br>💡 Let's chat about code, coffee, and conquering the digital realm. Connect with me and let's make magic happen!</p>
+<p align="left">👋 Hey, I'm Sony Shaw!<br><br>🚀 Amazon L3 support ace by day, Java full-stack wizard by night, passionate about tackling tech challenges head-on.<br><br>💡 Let's chat about code, coffee, and conquering the digital realm. Connect with me!</p>
 
 ###
 
