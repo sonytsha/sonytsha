@@ -30,6 +30,9 @@
   <a href="https://leetcode.com/sonytsha/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-important?style=for-the-badge&logo=leetcode&logoColor=white" height="25" alt="LeetCode logo" />
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/sonytg20/profile" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="25" alt="GeeksforGeeks logo" />
+  </a>
 </div>
 
 ###
@@ -78,7 +81,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3> my gfg link : [https://www.geeksforgeeks.org/user/sonytg20/](https://www.geeksforgeeks.org/user/sonytg20/)
+
 
 ###
 
