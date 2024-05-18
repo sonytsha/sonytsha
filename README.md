@@ -81,7 +81,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3> my gfg link : [https://www.geeksforgeeks.org/user/sonytg20/](https://www.geeksforgeeks.org/user/sonytg20/)
+<h3 align="left">🔥   My Stats :</h3> 
 
 
 ###
