@@ -82,3 +82,8 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3> 
+
+![Sony's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonytsha&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonytsha&layout=compact)](https://github.com/sonytsha/github-readme-stats)
+
