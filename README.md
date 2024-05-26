@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Sony Shaw!<br><br>🚀 Amazon L3 support ace by day, Java full-stack wizard by night, passionate about tackling tech challenges head-on.<br><br>💡 Let's chat about code, coffee, and conquering the digital realm. Connect with me!</p>
+<p align="left">👋 Hey, I'm Sony Shaw!<br><br>🚀 Amazon L3 support ace by day, Java full-stack wizard by night, passionate about tackling tech challenges head-on.<br><br>💡 Let's chat about code, coffee. Connect with me!</p>
 
 ###
 
