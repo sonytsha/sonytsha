@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/sonyshaw/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-important?style=for-the-badge&logo=leetcode&logoColor=white" height="25" alt="LeetCode logo" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/sonytg20/profile" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/sonytsha/profile" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="25" alt="GeeksforGeeks logo" />
   </a>
 </div>
