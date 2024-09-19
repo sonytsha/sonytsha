@@ -35,15 +35,10 @@
 
 ###
 
-<h1 align="center">Greetings, Explorers! Welcome to Shaw's Tech Realm.</h1>
+<h1 align="center">Welcome to My Profile!</h1>
+<h3 align="left">👩‍💻 About Me: Software Development Enthusiast | Java Expert | Amazon Alumnus | Passionate About Innovative Tech Solutions</h3>
+<p align="left">Hello, I'm Sony Shaw!<br><br>With a background as an L3 support associate at Amazon and extensive experience in Java and full-stack development, I am driven by a passion for creating impactful digital solutions. I specialize in problem-solving and coding, constantly seeking new challenges and opportunities to innovate.<br><br>Let's connect and discuss how we can drive success together through technology!</p>
 
-###
-
-<h3 align="left">👩‍💻  About Me : Innovative Full-Stack Java Developer | Amazon Alumnus | Crafting Digital Solutions That Drive Success</h3>
-
-###
-
-<p align="left">👋 Hey, I'm Sony Shaw!<br><br>🚀 Amazon L3 support ace by day, Java full-stack wizard by night, passionate about tackling tech challenges head-on.<br><br>💡 Let's chat about code, coffee. Connect with me!</p>
 
 ###
 
